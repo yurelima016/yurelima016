@@ -1,23 +1,114 @@
-<h1>Yure Lima</h1>
-<p>Futuro Front-end Developer 🖥️</p>
+# 👨🏻‍💻 Yure Lima
 
-<p>Conhecimento nas técnologias:</p>
+> **`Front-end Developer`**
+>
+> Me chamo Yure, tenho 20 anos e atualmente moro no estado de Minas Gerais.
+> Conclui o curso de Desenvolvimento de Sistema pelo Sesi/Senai e atualente estou cursando o 5º período do curso técnologo de Gestão da Tecnologia da Informação pela Fapam.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yure_lima16?igsh=MXFscnRodHVrMHVqbg%3D%3D&utm_source=qr)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurelima016)
 
-<p>Buscando conhecer:</p>
+<br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+## 🤖 Linguagens e Tecnologias
 
-<!-- [![yurelimasouza@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logo
+<img 
+    align="left"
+    alt="php"
+    title="php"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left"
+    alt="python"
+    title="python"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left"
+    alt="javascript"
+    title="javascript"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left"
+    alt="html"
+    title="html"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left"
+    alt="css"
+    title="css"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left"
+    alt="bootstrap"
+    title="bootstrap"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left"
+    alt="postgresql"
+    title="postgresql"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left"
+    alt="mysql"
+    title="mysql"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left"
+    alt="git"
+    title="git"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left"
+    alt="docker"
+    title="docker"
+    width="40px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+
+<br/>
+<br/>
+
+## 🤓 Estatísticas
+
+<img
+    align="left"
+    alt="github stats"
+    height="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=yurelima016&show_icons=true&theme=dark&include_all_commits=true&locale=pt-BR"
+/>
+<img
+    align="left"
+    alt="github stats"
+    height="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurelima016&theme=dark&include_all_commits=true&locale=pt-BR&layout=compact&langs_count=10"
+/>
