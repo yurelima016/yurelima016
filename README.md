@@ -101,14 +101,14 @@
 <img
     align="left"
     alt="github stats"
-    height="200px"
+    height="175px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=yurelima016&show_icons=true&theme=dark&include_all_commits=true&locale=pt-BR"
 />
 <img
     align="left"
     alt="github stats"
-    height="200px"
+    height="175px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurelima016&theme=dark&include_all_commits=true&locale=pt-BR&layout=compact&langs_count=10"
 />
